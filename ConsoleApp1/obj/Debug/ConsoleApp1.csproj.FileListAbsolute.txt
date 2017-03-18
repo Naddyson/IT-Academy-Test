@@ -1,0 +1,8 @@
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+c:\users\naddy\onedrive\документы\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
